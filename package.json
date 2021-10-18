@@ -33,7 +33,7 @@
     "size": "npm run build && size-limit"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/gnenux/wangEditor"
+    "registry": "https://npm.pkg.github.com/gnenux"
   },
   "repository": {
     "type": "git",
