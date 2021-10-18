@@ -32,9 +32,12 @@
     "cypress:coverage": "nyc report --reporter=text-summary",
     "size": "npm run build && size-limit"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/gnenux/wangEditor"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wangeditor-team/wangEditor.git"
+    "url": "git+https://github.com/gnenux/wangEditor.git"
   },
   "author": "",
   "license": "MIT",
