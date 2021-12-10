@@ -76,7 +76,7 @@ export default function (editor: Editor): PanelConf {
 
     // 最终的配置 -----------------------------------------
     const conf: PanelConf = {
-        width: 300, // Panel容器宽度
+        width: 360, // Panel容器宽度
         height: 230, // Panel容器高度
         tabs: tabsConf,
     }
